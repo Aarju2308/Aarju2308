@@ -1,4 +1,4 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))](https://aarjupatel.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif))](https://aarjupatel.io)
 <h1 align="center">Hi 👋, I'm Aarju Patel</h1>
 <h3 align="center">A passionate full stack java developer.My focus is on building scalable, efficient applications with seamless user experiences, while constantly staying updated with the latest tools and frameworks.</h3>
 
