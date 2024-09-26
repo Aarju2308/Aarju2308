@@ -40,9 +40,13 @@
   
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aarju2308&" alt="aarju2308" /></p>
 </div>
+
 ---
 
-<h3>Languages and Tools:</h3>
-<br>
-<img alt="Snake Contributions Animation" src="" />
+<div>
+  <h3 align="left" >Languages and Tools:</h3>
+  <br>
+  <img alt="Snake Contributions Animation" src="" />
+</div>
+
 
