@@ -46,7 +46,7 @@
 <div>
   <h3 align="left" >Languages and Tools:</h3>
   <br>
-  <img alt="Snake Contributions Animation" src="" />
+  ![snake gif](https://github.com/Aarju2308/Aarju2308/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 
