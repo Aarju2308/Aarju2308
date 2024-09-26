@@ -38,3 +38,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarju2308&show_icons=true&locale=en&layout=compact" alt="aarju2308" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aarju2308&" alt="aarju2308" /></p>
+
+---
+
+<div align="center">
+  <h3 align="left">Languages and Tools:</h3>
+  <br>
+  <img alt="Snake Contributions Animation" src="" />
+</div>
