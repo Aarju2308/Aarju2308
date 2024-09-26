@@ -41,8 +41,7 @@
 
 ---
 
-<div align="center">
-  <h3 align="left">Languages and Tools:</h3>
-  <br>
-  <img alt="Snake Contributions Animation" src="" />
-</div>
+<h3>Languages and Tools:</h3>
+<br>
+<img alt="Snake Contributions Animation" src="" />
+
