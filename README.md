@@ -35,18 +35,22 @@
 
 ---
 
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarju2308&show_icons=true&locale=en&layout=compact" alt="aarju2308" /></p>
-  
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aarju2308&" alt="aarju2308" /></p>
+<div style="display: flex; justify-content: space-between;">
+
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aarju2308&show_icons=true&locale=en&layout=compact" alt="aarju2308" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarju2308&" alt="aarju2308" />
+
 </div>
 
 ---
 
-<div>
-  <h3 align="left" >Languages and Tools:</h3>
-  <br>
-  ![snake gif](https://github.com/Aarju2308/Aarju2308/blob/output/github-contribution-grid-snake.gif)
-</div>
+<h3 align="left">My Contributions:</h3>
+
+![snake gif](https://github.com/Aarju2308/Aarju2308/blob/output/github-snake.svg)
+
+---
+
+
 
 
